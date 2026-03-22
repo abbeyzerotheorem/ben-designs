@@ -4,7 +4,7 @@ export default function About() {
   return (
     <section id="about" className="about section-padding">
       <div className="container">
-        <h2 className="section-title">⭐ About <span className="highlight">Me</span></h2>
+        <h2 className="section-title">About <span className="highlight">Me</span></h2>
 
         <div className="about-content glass-panel">
           <div className="about-grid">
