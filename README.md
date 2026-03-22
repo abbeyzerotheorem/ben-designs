@@ -1,6 +1,6 @@
 # Ben's Interactive Portfolio
 
-A premium, interactive, and fully responsive portfolio website built for **Benedict Oyelewo**—showcasing his expertise as a Frontend Web Developer, Graphic/UI Designer, and Video Editor.
+A premium, interactive, and fully responsive portfolio website built for **Benedict Oyelewo** showcasing his expertise as a Frontend Web Developer, Graphic/UI Designer, and Video Editor.
 
 ## 🚀 Features
 - **Modern Glassmorphism UI**: Uses a sleek dark theme with glowing neon accents and translucent frosted-glass panels.
@@ -43,4 +43,4 @@ Need a new website or a stunning graphic design piece? Drop Ben a message!
 - **YouTube**: [Subscribe to Ben Designs](https://youtube.com/@ben_designs1?si=VxHRxn_uIG9Docdn)
 
 ---
-*Designed & Developed with ♥ by Benedict Oyelewo.*
+*Designed & Developed by ZeroTheorem*
